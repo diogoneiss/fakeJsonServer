@@ -1,4 +1,41 @@
+
 {
-    "user": "diogo",
-    "password": "123456"
-}
+    "users": [
+      {
+        
+        "username": "diogoneiss",
+        "password": "123456"
+      },
+      {
+        
+        "username": "ivre",
+        "password": "123456"
+      },
+      {
+        
+        "username": "teste",
+        "password": "123456"
+      }
+    ],
+    "books": [
+        {
+            "id": "1",
+            "nome": "Homo deus",
+            "autor": "Harari",
+            "doado": "false",
+            "categoria": "Filosofia",
+            "imgBase64": "...",
+            "emailDono": "diogo.oliveiran@gmail.com"
+        }
+        {
+            "id": "2",
+            "nome": "Lições do século 21",
+            "autor": "Harari",
+            "doado": "true",
+            "categoria": "Filosofia",
+            "imgBase64": "...",
+            "emailDono": "diogo.oliveiran@gmail.com"
+        }
+
+    ]
+  }
