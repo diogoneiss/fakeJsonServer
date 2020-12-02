@@ -1,4 +1,3 @@
-
 {
     "users": [
       {
@@ -20,22 +19,24 @@
     "books": [
         {
             "id": "1",
-            "nome": "Homo deus",
-            "autor": "Harari",
-            "doado": "false",
-            "categoria": "Filosofia",
-            "imgBase64": "...",
-            "emailDono": "diogo.oliveiran@gmail.com"
-        },
-        {
+            "title": "Homo deus",
+            "author": "Harari",
+            "status": "0",
+            "date" : "",
+            "priority": "Filosofia",
+            "image": "...",
+            "emailDonated": "diogo.oliveiran@gmail.com",
+            "userDonated": "diogoneiss"
+        },{
             "id": "2",
-            "nome": "Lições do século 21",
-            "autor": "Harari",
-            "doado": "true",
-            "categoria": "Filosofia",
-            "imgBase64": "...",
-            "emailDono": "diogo.oliveiran@gmail.com"
+            "title": "Lições século 21",
+            "author": "Harari",
+            "status": "1",
+            "date" : "",
+            "priority": "Filosofia",
+            "image": "...",
+            "emailDonated": "diogo.oliveiran@gmail.com",
+            "userDonated": "diogoneiss"
         }
-
     ]
   }
