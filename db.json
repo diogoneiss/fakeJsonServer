@@ -18,23 +18,23 @@
     ],
     "books": [
         {
-            "id": "1",
+            "id": 10,
             "title": "Homo deus",
             "author": "Harari",
-            "status": "0",
+            "status": 0,
             "date" : "",
             "priority": "Filosofia",
-            "image": "...",
+            "image": "",
             "emailDonated": "diogo.oliveiran@gmail.com",
             "userDonated": "diogoneiss"
         },{
-            "id": "2",
+            "id": 20,
             "title": "Lições século 21",
             "author": "Harari",
-            "status": "1",
+            "status": 1,
             "date" : "",
             "priority": "Filosofia",
-            "image": "...",
+            "image": "",
             "emailDonated": "diogo.oliveiran@gmail.com",
             "userDonated": "diogoneiss"
         }
